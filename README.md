@@ -7,15 +7,15 @@ This repository defines NectarJS project, repositories and packages.
  * `/nectarjs`
     * the main NectarJS repository, containing the client application
   
- * `@nativejs`
+ * `/nativejs`
     * Core compiler of NectarJS project
   
- * `@nectar-emb`
+ * `/nectar-emb`
     * Core JS embedded engine for NectarJS
  
- * `@jnom`
+ * `/jnom`
     * Javascript Native Object Model format
   
-  * `@nectar-doc`
+ * `/nectar-doc`
     * Project documentation
 
