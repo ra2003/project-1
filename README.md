@@ -12,6 +12,9 @@ This repository defines NectarJS project, repositories and packages.
   
  * `/nectar-emb`
     * Core JS embedded engine for NectarJS
+   
+ * `/nectar-modules`
+    * NectarJS modules
  
  * `/jnom`
     * Javascript Native Object Model format
