@@ -10,7 +10,7 @@ This repository defines NectarJS project, repositories and packages.
  * `/nativejs`
     * Core compiler of NectarJS project
   
- * `/nectar-emb`
+ * `/embjs`
     * Core JS embedded engine for NectarJS
    
  * `/nectar-modules`
